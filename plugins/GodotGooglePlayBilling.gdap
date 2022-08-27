@@ -1,0 +1,8 @@
+[config]
+
+name="GodotGooglePlayBilling"
+binary_type="local"
+binary="GodotGooglePlayBilling.1.1.2.release.aar"
+
+[dependencies]
+remote=["com.android.billingclient:billing:4.0.0"]
